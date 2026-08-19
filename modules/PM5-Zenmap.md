@@ -17,7 +17,7 @@ The active Wi-Fi configuration was identified as:
 
 A Zenmap Ping Scan was performed using:
 
-```text
+```bash
 nmap -sn 192.168.2.0/24
 ```
 
