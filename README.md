@@ -44,7 +44,7 @@ Local network discovery and topology mapping using Zenmap/Nmap on my own LAN.
 
 ## Week 2 Final Report
 
-The Week 2 final report documents the selected elective and essential technical module completed.
+The Week 2 final report documents the selected elective and essential technical modules completed.
 
 - W2-PM4 — theHarvester Footprinting
 - W2-PM5 — Zenmap Network Scanning
